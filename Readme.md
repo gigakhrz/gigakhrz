@@ -23,13 +23,17 @@
   </a>
 </p>
 
-
-<div align="center">
-  <div style="width: 100%">
-    <p style="width: 50%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigakhrz&show_icons=true&theme=dark&locale=en&layout=compact" alt="gigakhrz" /></p>
-    
-    <p style="width: 50%">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gigakhrz&show_icons=true&theme=dark&locale=en" alt="gigakhrz" /></p>
+<div style="width: 100%;">
+  <div style="width: 50%; float: left;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigakhrz&show_icons=true&theme=dark&locale=en&layout=compact" alt="gigakhrz" /></p>
   </div>
+  
+  <div style="width: 50%; float: right;">
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gigakhrz&show_icons=true&theme=dark&locale=en" alt="gigakhrz" /></p>
+  </div>
+
+  <div style="clear: both;"></div>
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigakhrz&theme=dark" alt="gigakhrz" /></p>
 </div>
+

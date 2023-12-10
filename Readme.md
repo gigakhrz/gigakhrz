@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigakhrz&show_icons=true&theme=dark&locale=en&layout=compact" alt="gigakhrz" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigakhrz&show_icons=true&theme=dark&locale=en&layout=compact" alt="gigakhrz" /></p>
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gigakhrz&show_icons=true&theme=dark&locale=en" alt="gigakhrz" /></p>
   
